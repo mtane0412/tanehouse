@@ -4,7 +4,7 @@ document.querySelector<HTMLDivElement>('#main')!.innerHTML = `
   <h1>TaneHouse</h1>
   
   <h2>House Information</h2>
-  <p>This is a shared house in the coastal area managed by Tanenobu(<a href="https://x.com/mtane0412">@mtane0412</a>). We live in a 60-year-old old private house while renovating it with DIY. People who are geeks of some kind - technology, hunting, DIY, gardening, nature, etc. are welcome.</p>
+  <p>This is a shared house in the coastal area in Iwate Japan managed by <a href="https://x.com/mtane0412">@mtane0412</a>. We live in a 60-year-old old private house while renovating it with DIY. People who are geeks of some kind - technology, hunting, DIY, gardening, nature, etc. are welcome.</p>
   
   <h3>Features</h3>
   <ul>
@@ -26,7 +26,7 @@ document.querySelector<HTMLDivElement>('#main')!.innerHTML = `
   We are looking for people who can live together with the following conditions:
   <ul>
     <li>Paying rent without delay.</li>
-    <li>Can help manage the share house.</li>
+    <li>Can help manage the shared house.</li>
     <li>Keep the common areas clean.</li>
     <li>Do not make loud noises at night.</li>
     <li>Understand that it is an old house.</li>
@@ -77,10 +77,10 @@ document.querySelector<HTMLDivElement>('#main')!.innerHTML = `
   <p>
   Hello. I am an otaku who loves the internet and gaming.
   I am from Hiroshima and moved to Iwate in 2017.
-  I like shared house culture and wanted to start my own shared house, so I bought an old private house and started a share house in 2023.
+  I like shared house culture and wanted to start my own shared house, so I bought an old private house and started a shared house in 2023.
   </p>
   <ul>
-    <li>Masayuki Tanenobu</li>
+    <li>Masayuki Tanenobu @mtane0412</li>
     <li>born on: April 12, 1988</li>
     <li>X: <a href="https://x.com/mtane0412">@mtane0412</a></li>
     <li>Facebook: <a href="https://www.facebook.com/mtane0412">@mtane0412</a></li>
